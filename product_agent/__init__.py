@@ -1,1 +1,1 @@
-Product information ADK training agent.
+"""Simple ADK training agent."""

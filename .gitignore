@@ -1,1 +1,4 @@
 .env
+.venv
+product_agent/.adk
+product_agent/__pycache__
